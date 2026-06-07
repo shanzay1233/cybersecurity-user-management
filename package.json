@@ -1,0 +1,1 @@
+{"name":"cyber-app","version":"1.0.0","main":"app.js","scripts":{"start":"node app.js"},"dependencies":{"bcrypt":"^6.0.0","express":"^4.18.2","helmet":"^8.2.0","jsonwebtoken":"^9.0.3","validator":"^13.15.35","winston":"^3.19.0"}}
